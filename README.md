@@ -344,19 +344,6 @@ Sysmon Configuration       ████████░░  Splunk SPL           
 
 ---
 
-## 🔗 Portfolio Projects
-
-This homelab is the central infrastructure that supports all other portfolio projects:
-
-| Project | Description | Integration |
-|---|---|---|
-| [🔬 SenSIEM](../sensiem) | Log monitoring & alerting platform | Feeds alerts into this lab's Splunk instance |
-| [🎣 Phishing Email Detector](../phishing-detector) | ML-based phishing analysis | Phishing IOCs ingested into threat intel pipeline |
-| [🍯 Honeypot Project](../honeypot) | Attacker behavior capture | Honeypot logs forwarded to Splunk for analysis |
-| [📊 Log Analysis Project](../log-analysis) | Structured log parsing & analysis | Parsed log formats used in detection rule testing |
-
----
-
 ## 🗺️ Roadmap
 
 ### ✅ Completed
@@ -458,9 +445,9 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 B.Sc. Computer Science | Aspiring SOC Analyst  
 Tamil Nadu, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/chandraprakash-soc)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/chandruthehacker)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail)](mailto:cyberchandru87@gmail.com)
 
 ---
 
