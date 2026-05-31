@@ -43,6 +43,9 @@ The lab ingests **Windows endpoint telemetry via Sysmon**, routes it through **S
 | Incident Response | Documented playbooks, case studies, investigation workflows |
 | Security Automation | Shuffle SOAR workflows, Jira ticket automation |
 | Threat Intelligence | IOC enrichment, MITRE ATT&CK mapping |
+| Case Management | SOC Jira schema, workflow, SLA, dashboard design |
+
+For the full SOC Jira design, including the field catalog, status model, automation rules, and dashboard layout, see [docs/architecture/jira-incident-management-platform.md](docs/architecture/jira-incident-management-platform.md).
 
 ---
 
